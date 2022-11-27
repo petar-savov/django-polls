@@ -1,0 +1,1 @@
+Polls app from [the Django documentation](https://docs.djangoproject.com/en/4.1/intro/tutorial01/).
